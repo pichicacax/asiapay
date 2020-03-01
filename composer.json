@@ -1,0 +1,14 @@
+{
+    "name": "pichicacax/laravel-asiapay",
+    "description": "Laravel library to send pay requests and receive datafeeds from Asiapay",
+    "type": "library",
+    "license" : "MIT",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pichicacax\\Asiapay\\": "src/"
+        }
+    }
+}
